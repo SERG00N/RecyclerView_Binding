@@ -10,8 +10,6 @@ class MainActivity : AppCompatActivity() {
 
  private lateinit var binding: ActivityMainBinding
  private lateinit var adapter: UserAdapter
-  private lateinit var reyclerview : RecyclerView
-  private lateinit var layoutManager: LinearLayoutManager
   private lateinit var user :List<Data>
 
 
